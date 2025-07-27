@@ -81,7 +81,7 @@ h1 {
 
 .filter-btn:hover, .filter-btn.active {
     background: var(--primary); 
-    color: white; 
+    color: white;
 }
 
 .gallery {
